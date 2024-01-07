@@ -4,3 +4,7 @@ file 1 day1 branch main
 test branch
 
 line 2 branch dev
+line 2 branch dev
+
+new
+
